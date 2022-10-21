@@ -1,0 +1,70 @@
+html{
+    font-size: 62,5%;
+}
+
+body {
+    font-family: 'Caveat', cursive;
+}
+
+header {
+    background-color: #fbd3cc;
+}
+
+header img {
+    width: 200 200;
+    display:block;
+    margin:auto;
+}
+
+main {
+    background-color: #fff0f5;
+}
+
+.descriçao {
+    padding: 2em 2em;
+}
+
+.titulo-descriçao {
+    font-size: 2.4rem;
+    padding: 1em;
+}
+
+.img-descriçao {
+    width: 200px;
+    float: right;
+    padding: 1em 1em;
+}
+
+.descriçao p {
+    font-size: 1.8rem;
+}
+
+.doces {
+    padding: 2em 2em;
+}
+
+.titulo-doces {
+    font-size: 2.4rem;
+    padding: 1em;
+}
+
+.itens {
+    font-size: 1.8rem;
+    padding: 0.2em;
+}
+
+.itens:before {
+    content: "➣";
+}
+
+.mapa-conteudo {
+    width: 100%;
+}
+
+iframe {
+    width: 60%;
+}
+
+footer {
+    background-color: #e4865b;
+}
