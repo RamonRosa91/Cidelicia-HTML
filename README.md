@@ -1,2 +1,2 @@
 # Cidelicia-HTML
-HTML candy store, with store presentation, products to purchase and contact forms. Project zero CSV 20
+Candy store in HTML, with store presentation, products for purchase, social networks and contact forms. Project zero CSV 20
